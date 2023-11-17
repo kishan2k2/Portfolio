@@ -23,7 +23,7 @@ open source kaggle and all.
 
 
 
-
+Use this chatGPT prompt that I used to get all the answer https://chat.openai.com/share/661e29e7-01bf-4a14-8de0-0f63526f6ed9
 I can create a backend for the form using flask{for creating end points} and postgreSQL for the database.
     How will I get the response of the backend. either need to check in the backend.
     can't I build a system to get the notification of the responses I get.
