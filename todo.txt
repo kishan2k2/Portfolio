@@ -1,0 +1,29 @@
+Need to collect these contents to further work on my website.
+
+
+
+Experience.
+    might as well just remove it. till I get some experience or just the hackathon wale portions.
+remove section of opensource.
+Hackathon.
+Abstract of research, projects. 
+    Need to write it down in my free time.
+Remove the year of graduation from the education page. Cite button in research.
+    can do it.
+Either have a blog or remove it for now.
+    redirect it to my medium account.
+    Blog of the project Iam working for.
+Online credential. Certificate of ML course.
+    Need to get the ML certificate.
+    realisation that I dont have much of the certifications.
+Add github link.
+Remove some other not-so-usefull links.
+open source kaggle and all.
+
+
+
+
+
+I can create a backend for the form using flask{for creating end points} and postgreSQL for the database.
+    How will I get the response of the backend. either need to check in the backend.
+    can't I build a system to get the notification of the responses I get.
