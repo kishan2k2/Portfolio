@@ -138,7 +138,7 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Get in Touch</h6>
               </div>
-                <form name="form1" action="https://backend-portfolio-mjs1.onrender.com/submit" method="POST" accept-charset="UTF-8" >
+                <form name="form1" action="https://backend-portfolio-3ag9.onrender.com/submit" method="POST" accept-charset="UTF-8" >
                   <input id="name" type="text" name="name" placeholder="Your Name" required/>
                   <input id="email" type="email" name="email" placeholder="Email Address" required/>                  
                   <textarea id="textArea" name="message" placeholder="Type your Message" required></textarea>
