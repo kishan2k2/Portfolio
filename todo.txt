@@ -27,3 +27,10 @@ Use this chatGPT prompt that I used to get all the answer https://chat.openai.co
 I can create a backend for the form using flask{for creating end points} and postgreSQL for the database.
     How will I get the response of the backend. either need to check in the backend.
     can't I build a system to get the notification of the responses I get.
+
+removed many poritons 
+like Blog, experience
+
+
+
+Ask him to fix the project page.
