@@ -8,7 +8,7 @@ const research = [
     authors:
       "Kishan, Amar, Sahil",
     conferences:
-      "4th INTERNATIONAL CONFERENCE ON DATA ANALYTICS AND MANAGEMENT (ICDAM-2023) 23rd - 24th June 2023",
+      "Shortlisted in Elsevier publication, scopus and crossref during ICDAM and HINWEIS conference.",
     researchYr: 2023,
     citebox: "popup1",
     image: "assets/images/research-page/FlappyBird.png",
@@ -52,7 +52,7 @@ const fillData = () => {
                             <img src="${image}" class="imgRes">
                         </span>
                     </div>
-                    <a href="#0" class="paperTitle"> ${title} </a> 
+                    <a href="https://drive.google.com/file/d/1Az2eOHyyDzIxtIFbNO93JbRG7oGpxThO/view?usp=sharing" class="paperTitle", target = "_blank"> ${title} </a> 
                     <div class = "authors"> ${authors} </div> 
                     
                     <div class="rConferences"> ${conferences} 
