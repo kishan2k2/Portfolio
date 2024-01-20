@@ -137,6 +137,9 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Get in Touch</h6>
               </div>
+                <p>This contact me section works believe me I have build it myself, Though it takes time cause it is not frequently used 🥲, I couldn't resolve it since Iam not a webdeveloper but best believe it is some catching issue cause only the first loading is slow.</p>
+                <br>
+                <h1>I beg you patience for a while after you submit</h2>
                 <form name="form1" action="https://backend-portfolio-3ag9.onrender.com/submit" method="POST" accept-charset="UTF-8" >
                   <input id="name" type="text" name="name" placeholder="Your Name" required/>
                   <input id="email" type="email" name="email" placeholder="Email Address" required/>                  
